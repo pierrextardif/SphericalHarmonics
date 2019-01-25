@@ -8,7 +8,7 @@ Implementation of Spherical Harmonics in openframeworks using [Paul Bourke formu
 - - - -
 ## Getting Started
 
-This repo is a quiock research around organic shapes in [openframeworks](https://openframeworks.cc/).
+This repo is a quick research around organic shapes in [openframeworks](https://openframeworks.cc/).
 It is coded in openframeworks and generates abstract graphics, using the 8 parameters of this formula:
 
 ![.](assets/2.png)
